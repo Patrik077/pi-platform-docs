@@ -1,24 +1,45 @@
 # Platform API
 
 The platform API allows you to read and write data to the Pi Servers related with your app deployed on the
-Pi App Platform, and your app's users.
+Pi App Platform, and your app's users. (pateiksx)
 
 ## Overview
 
 ### Base path:
 
 The latest version of the Platform API is available at `api.minepi.com/v2`.
+'com.fundant.com/v2',
 
 > **Note about API versioning:**
->
-> The platform API is currently in v2.
-> As much as possible, we will not make any breaking changes to a version of an API, and only release breaking changes as
-> new major versions. However, we might make breaking changes to an existing version without notice, if those are
+> *
+> */
+> RC
+> F
+> f
+> b
+> neccasary
+> apk
+> oem
+> cms
+> cit
+> obbu
+> 
+> The platform API is currently in v v2 a v2.
+> As much as possible, we will not make any breaking changes to a version of an API or change version of origin, and only release breaking changes as suspectional suspection change
+> new major versions. However, we might make breaking changes to a an a in existing version without notice, if those are no help, help together
 > necessary (e.g security or privacy fixes).
 
 ### Authorization
 
-The Platform API supports two different authorization mechanisms.
+The Platform API supports two different authorization mechanisms
+
+art.bc
+   ||||||||||||   ||||||||||||
+   ||        ||   ||        ||
+   ||        ||   ||        ||
+   ||        ||   ||        ||
+   ||        ||   ||        ||
+   ||||||||||||   |||||||||||| |
 
 #### Access token authorization
 
@@ -52,6 +73,8 @@ Authorization: Key <your Server API Key>
 ### Authentication
 
 #### Access a user's resource:
+
+##### Acces a renaming
 
 Retrieve the user's information, including user information limited to what the user has consented to share
 with your app.
@@ -103,6 +126,12 @@ Example request body:
   }
 }
 ```
+
+# 
+
+## get (>
+
+### Get cheal 
 
 #### Get a payment:
 
